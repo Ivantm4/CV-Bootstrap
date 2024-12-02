@@ -1,0 +1,64 @@
+body {
+    background-color: #f9f9f9;
+    color: #4a4a4a;
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: #d9e4f5;
+    color: #1d3557;
+}
+header nav a {
+    color: #1d3557;
+    margin-left: 15px; 
+    font-size: 14px;   
+}
+header nav a:hover {
+    color: #457b9d;
+}
+h2 {
+    color: #1d3557;
+}
+.card {
+    background-color: #ffffff;
+    border-color: #d3d3d3;
+}
+.card-title {
+    color: #2a2a2a;
+}
+.card-subtitle {
+    color: #6c757d;
+}
+.btn-primary {
+    background-color: #457b9d;
+    border-color: #457b9d;
+}
+.btn-primary:hover {
+    background-color: #1d3557;
+    border-color: #1d3557;
+}
+.progress-bar {
+    background-color: #6fa6d6;
+}
+ul.list-unstyled i {
+    color: #457b9d;
+}
+section {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 30px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+a:hover {
+    color: #457b9d;
+}
+footer {
+    background-color: #d9e4f5;
+    color: #1d3557;
+    text-align: center;
+    padding: 10px 0;
+}
